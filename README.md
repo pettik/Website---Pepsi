@@ -7,4 +7,4 @@ Excersice: making a site about product PEPSI cola.
 <img src="desktop-black.png" alt="Desktop preview 3">
 
 ## MOBILE preview (blue variation):📱⬇️ 🔵 
-<img src="mobile-blue.png" alt="Mobile preview" width="300px">
+<img src="mobile-blue.png.png" alt="Mobile preview" width="300px">

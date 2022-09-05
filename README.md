@@ -1,4 +1,4 @@
-# Website---Pepsi (responsive)
+# Website---Pepsi (responsive layout) 
 Excersice: making a site about product PEPSI cola.
 
 ## DESKTOP preview (in all color variation): 🖥️⬇️ 🔵 🔴 ⚫

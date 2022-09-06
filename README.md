@@ -1,5 +1,5 @@
 # Website---Pepsi (responsive layout) 
-Excersice: making a site about product PEPSI cola.
+Excersice: making a site about product PEPSI cola. Website is responsive to mobile devices (breakpoints are in )
 
 ## DESKTOP preview (in all color variation): 🖥️⬇️ 🔵 🔴 ⚫
 <img src="desktop-blue.png" alt="Desktop preview 1">
